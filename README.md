@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/smirking-face_1f60f.png" width="80" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/slightly-smiling-face_1f642.png" width="80" />
 </p>
 
 <h3 align="center">How to reach me</h3>
@@ -12,11 +12,6 @@
     <img src="https://img.shields.io/badge/Gmail-22misha2005%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SUAI-blue?style=for-the-badge" />
-</p>
-
 ---
 
 ### 🧠 tech.stack
@@ -29,13 +24,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/NATS-2C4F7C?style=for-the-badge&logo=natsdotio&logoColor=white" />
 </p>
 
 <p align="center">
@@ -60,16 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dokhoyan&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokhoyan&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>simple. clean. backend.</i>
 </p>
-
