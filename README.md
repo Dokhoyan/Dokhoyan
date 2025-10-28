@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Gmail-22misha2005%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
----
 
 ###  tech.stack
 
