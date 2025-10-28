@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/slightly-smiling-face_1f642.png" width="80" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-sunglasses_1f60e.png" width="80" />
 </p>
 
 <h3 align="center">How to reach me</h3>
@@ -14,7 +14,7 @@
 </p>
 ---
 
-### 🧠 tech.stack
+###  tech.stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
